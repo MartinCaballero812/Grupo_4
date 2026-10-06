@@ -1,0 +1,17 @@
+com\facturacion\entidades\Articulo.class
+com\facturacion\entidades\AuditoriaApp.class
+com\facturacion\entidades\Cliente.class
+com\facturacion\entidades\PuntoVenta.class
+com\facturacion\entidades\FacturaVenta.class
+com\facturacion\entidades\FacturaVentaDetalle.class
+com\facturacion\entidades\ListaPrecioArticulo.class
+com\facturacion\entidades\TipoMoneda.class
+com\facturacion\entidades\ListaPrecio.class
+com\facturacion\Main.class
+com\facturacion\entidades\CondicionIva.class
+com\facturacion\entidades\EntityId.class
+com\facturacion\entidades\Rubro.class
+com\facturacion\entidades\Usuario.class
+com\facturacion\entidades\Domicilio.class
+com\facturacion\entidades\Marca.class
+com\facturacion\entidades\Contacto.class
